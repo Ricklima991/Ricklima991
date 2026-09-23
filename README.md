@@ -39,6 +39,7 @@ Estudante de Engenharia de Software na Escola DNC em busca de conhecimento e exp
 </p>
 
 ## 📌 Projetos em destaque
+- 👶 [CrescerBem](https://github.com/Ricklima991/CrescerBem) - Plataforma de desenvolvimento infantil ([ver site](https://ricklima991.github.io/CrescerBem/))
 - 🏛️ [Landing-Page-Arquitetura](https://github.com/Ricklima991/Landing-Page-Arquitetura) - Trilha Full Stack DNC
 - 🔌 [Desafio-2-Dnc-consumo-de-API](https://github.com/Ricklima991/Desafio-2-Dnc-consumo-de-API)
 - ⚛️ [DNC React Portfolio](https://github.com/Ricklima991/Desafio-03-e-04---Construa-uma-interface-utilizando-ReactJS---Escola-DNC-main)
