@@ -39,6 +39,9 @@ Estudante de Engenharia de Software na Escola DNC em busca de conhecimento e exp
 </p>
 
 ## 📌 Projetos em destaque
+- 🌐 [Portfólio Profissional](https://ricklima991.github.io/profissional-rickdutra/) - Meus trabalhos de front-end
+- 🏋️ [Nepofit Performance](https://ricklima991.github.io/nepofit-performance/) - Landing page de alta conversão para academia ([código](https://github.com/Ricklima991/nepofit-performance))
+- 🏖️ [Pousada do Adão](https://ricklima991.github.io/pousada-do-adao/) - Site completo de pousada e restaurante ([código](https://github.com/Ricklima991/pousada-do-adao))
 - 👶 [CrescerBem](https://github.com/Ricklima991/CrescerBem) - Plataforma de desenvolvimento infantil ([ver site](https://ricklima991.github.io/CrescerBem/))
 - 🏛️ [Landing-Page-Arquitetura](https://github.com/Ricklima991/Landing-Page-Arquitetura) - Trilha Full Stack DNC
 - 🔌 [Desafio-2-Dnc-consumo-de-API](https://github.com/Ricklima991/Desafio-2-Dnc-consumo-de-API)
